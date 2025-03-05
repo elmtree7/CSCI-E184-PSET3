@@ -7,3 +7,14 @@ unemployment
 risk
 loss
 layoff
+fired
+redundant
+struggling
+obsolete
+retrain
+stress
+concerned
+scared
+frustrated
+hopeless
+overwhelmed
